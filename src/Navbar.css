@@ -1,0 +1,51 @@
+.Navbar{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 17%, rgba(145,55,113,1) 100%, rgba(0,212,255,1) 100%);
+    display: flex;
+    width: 100% auto;
+    height: 125PX;
+}
+/* .eventlogo{
+    top: 91px;
+    position: absolute;
+    right: 1px;
+} */
+.eventlogo{
+    position: relative;
+    display: flex;
+}
+.smallpic{
+    width: 80px;
+    height: 71px;
+    margin-block-start: 63px;
+    margin-inline-start: 30px;
+}
+.eventitle{
+    margin-top: 41px;
+    color: white;
+    margin-left: 13px;
+}
+.event{
+    top: 51px;
+    position: absolute;
+    right: 32px;
+}
+
+/* 
+.eventlogo{
+    display: flex;
+  
+}
+.eventitle{
+
+    color: white;
+    margin-block-start: 45px;
+    margin-inline-start: 18px;
+}
+
+img{
+  
+    height: 100px;
+    margin-top: 68px;
+    margin-inline-start: 73px;
+} */
